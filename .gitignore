@@ -8,9 +8,10 @@ ehthumbs.db
 Thumbs.db
 
 # Common IDE / Editor files
-.vscode/
 .idea/
 *.swp
 *.swo
 *.swn
 *~
+config.bat
+node_modules
